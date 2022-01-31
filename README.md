@@ -1,13 +1,9 @@
-## Getting Started
+## Práctica 1 Java – Introducción a Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
++ Prepara un menú que seleccione la ejecución de los diferentes
+ejercicios que se piden a continuación. Este menú se debe realizar con un switch.
++ Crea un método para todos y cada uno de los siguientes ejercicios. El método debe incorporar el calificador de acceso “public static'' y tener un nombre adecuado a lo que se solicita. La llamada al método se debe realizar desde el switch codificado en el ejercicio anterior. Los métodos a codificar deben realizar lo siguiente:
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
